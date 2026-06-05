@@ -1,0 +1,28 @@
+
+3. Scroll down, write a commit message like `Initial KETER README`, and click **Commit changes**
+
+## Step 4: Add AGPL‑3.0 license (manual, same as before)
+
+1. Click **Add file** → **Create new file**
+2. Name: `LICENSE`
+3. Paste the **same AGPL‑3.0 license text** I provided for `dmos-kdif` (the full long text)
+4. Commit directly to `main`
+
+## Step 5: Add Python `.gitignore`
+
+1. Click **Add file** → **Create new file**
+2. Name: `.gitignore`
+3. Choose **Python** template from the picker
+4. Commit
+
+---
+
+## After you complete steps 1–5
+
+Tell me **“keter done”** and I’ll confirm. Then we move to:
+
+**2. `keter-prime-papers`** – theoretical repository for whitepapers/manifestos  
+**3. Profile badge** – add dynamic stats to your profile README  
+**4. GitHub Pages** – create a simple website for DarkMatter-DMOS
+
+Ready when you are. Just say “keter done” or ask for help on any step.
